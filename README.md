@@ -10,3 +10,4 @@
 - CSS
 - Javascript
 - React - Route
+- Json-Server
